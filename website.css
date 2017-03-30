@@ -1,0 +1,82 @@
+body
+{
+	background: linear-gradient(to right, #330000 0%, #330000 21%, #cc9966 21%, #cc9966 100%);
+	margin: 0% 25% 5% 22%;
+	padding-top: 0%;
+	font-family: "Courier New", Courier, monospace;
+	color: #663300;
+}
+
+
+
+#fixed
+{
+	position: fixed;
+	width: 15%;
+	margin-left: -18%;
+	margin-top: 8%;
+	font-size: 16px;
+	color: #996600;
+	border-left: solid 2px #996600;
+	padding-left: 5px;
+}
+
+#leaves
+{
+	margin-left: -1.9%;
+	margin-top: -15%;
+}
+
+.italic
+{
+	font-style: italic;
+}
+
+p
+{
+	margin-right: 50%;
+}
+
+.right
+{
+	float: right;
+	margin-right: -120%;
+	margin-top: -6%;
+	padding-left: 13%;
+	text-align: center;
+}
+
+.cite
+{
+	float: right;
+	margin-right: -8%;
+	margin-top: -10%;
+	z-index: 10;
+}
+
+dl
+{
+	margin-right: 40%
+}
+
+.navigator
+{
+	color: #996600;
+	text-decoration: none;
+}
+
+#source
+{
+	margin-right: -50%;
+}
+
+/*I feel like this should be longer for some reason*/
+
+
+
+
+
+
+
+
+
